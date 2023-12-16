@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="dez[6]" source="Pin Planner" >
+		</pin>
+		<pin name="ck" source="Pin Planner" >
+		</pin>
+		<pin name="c[3]" source="Pin Planner" >
+		</pin>
+		<pin name="c[2]" source="Pin Planner" >
+		</pin>
+		<pin name="c[1]" source="Pin Planner" >
+		</pin>
+		<pin name="c[0]" source="Pin Planner" >
+		</pin>
+		<pin name="uni[6]" source="Pin Planner" >
+		</pin>
+		<pin name="uni[5]" source="Pin Planner" >
+		</pin>
+		<pin name="uni[4]" source="Pin Planner" >
+		</pin>
+		<pin name="uni[3]" source="Pin Planner" >
+		</pin>
+		<pin name="uni[2]" source="Pin Planner" >
+		</pin>
+		<pin name="uni[1]" source="Pin Planner" >
+		</pin>
+		<pin name="uni[0]" source="Pin Planner" >
+		</pin>
+		<pin name="dez[5]" source="Pin Planner" >
+		</pin>
+		<pin name="dez[4]" source="Pin Planner" >
+		</pin>
+		<pin name="dez[3]" source="Pin Planner" >
+		</pin>
+		<pin name="dez[2]" source="Pin Planner" >
+		</pin>
+		<pin name="dez[1]" source="Pin Planner" >
+		</pin>
+		<pin name="dez[0]" source="Pin Planner" >
+		</pin>
+		<pin name="cen[6]" source="Pin Planner" >
+		</pin>
+		<pin name="cen[5]" source="Pin Planner" >
+		</pin>
+		<pin name="cen[4]" source="Pin Planner" >
+		</pin>
+		<pin name="cen[3]" source="Pin Planner" >
+		</pin>
+		<pin name="cen[2]" source="Pin Planner" >
+		</pin>
+		<pin name="cen[1]" source="Pin Planner" >
+		</pin>
+		<pin name="cen[0]" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>
